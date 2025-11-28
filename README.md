@@ -1,4 +1,4 @@
-# CitewiseAI - Your Comprehensive Study & Career Assistant
+# ExamPilot - Your Comprehensive Study & Career Assistant
 
 A cutting-edge, AI-powered platform built with React and modern technologies to revolutionize learning, research, and career development.
 
